@@ -54,7 +54,7 @@ namespace WindowsFormsApplication1
                 //    b[i] = c[i];
                 //}
                 
-                //b[3] = 0x0D;
+                b[3] = 0x0D;
                 ////string str = BitConverter.ToString(b, 0);
                 ////textBox1.Text = str;
                 ////for (int i = 0; i < b.Length; i++)
